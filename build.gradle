@@ -14,7 +14,7 @@ catalog {
     	def slf4jVersion = version('slf4jVersion', '2.0.16')
     	
     	library ('awaitility', 'org.awaitility:awaitility:4.2.2')
-    	library('fincher-gradle-release', 'com.fincher:gradle-release:1.0.3')
+    	library('fincher-gradle-release', 'com.fincher:gradle-release:1.0.4')
     	library('fincher-sonarlint', 'com.fincher:sonarlint:0.0.2')
     	library('guava', 'com.google.guava:guava:31.1-jre')
     	library('java-thread', 'com.fincher:java-thread:4.2.8-SNAPSHOT')
