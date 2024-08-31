@@ -17,7 +17,7 @@ catalog {
     	library('fincher-gradle-release', 'com.fincher:gradle-release:1.0.4')
     	library('fincher-sonarlint', 'com.fincher:sonarlint:0.0.2')
     	library('guava', 'com.google.guava:guava:31.1-jre')
-    	library('java-thread', 'com.fincher:java-thread:4.2.8-SNAPSHOT')
+    	library('java-thread', 'com.fincher:java-thread:4.2.8')
     	library('jgit', 'org.eclipse.jgit', 'org.eclipse.jgit').versionRef(jgitVersion)
     	library('jgit-jsch', 'org.eclipse.jgit', 'org.eclipse.jgit.ssh.jsch').versionRef(jgitVersion)
     	library('junit5-api', 'org.junit.jupiter', 'junit-jupiter-api').versionRef(junit5)
